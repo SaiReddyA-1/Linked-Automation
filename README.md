@@ -25,7 +25,7 @@ This project is called an "Agent" because it autonomously handles these repeated
 
 ✉ *Upcoming Feature:* I'm also working on an *Email Outreach module* to directly send personalized emails with attachments like resumes or drive links.  
 
-🔗 *Deployed Test Website* (Dummy Data):  
+🔗 *Deployed Test Website*:  
 https://v0-front-end-application-design.vercel.app/  
 (Backend isn't connected yet, as Playwright scripts can’t run on the web deployment.)  
 
