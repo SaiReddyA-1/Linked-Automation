@@ -37,3 +37,4 @@ https://github.com/SaiReddyA-1
 (Follow me for updates—I'll soon upload the fully functional code with integrated frontend and backend!)  
 
 📄 Also, please check the *PPT* I shared in the group for more details.
+https://drive.google.com/file/d/1RzaT8ml0w56pvwMxwOfZR4GuH3a_FFew/view?usp=sharing
